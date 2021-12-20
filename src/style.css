@@ -1,0 +1,6 @@
+#header {
+	width:100%;
+	height:150px;
+	border-bottom:1px solid #19363d;
+    background:#09c url(img/bg_header.png) repeat-x top;
+}
